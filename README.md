@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveen-Singh0
+- 👋 Hi, I’m @Praveen-Singh
 - 👀 I’m interested in -- Web Development as well as App development. 
 - 🌱 I’m currently learning -- Development  
 - 💞️ I’m looking to collaborate on - any organization where i can showcase my skills,.
