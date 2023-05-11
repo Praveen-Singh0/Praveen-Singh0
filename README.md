@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveen-Singh
-- 👀 I’m interested in -- Development(web-app Development). 
+- 👀 I’m interested in -- Development (web & app Development). 
 - 🌱 I’m currently learning --Project Development, & Full-stack. 
 - 💞️ I’m looking to collaborate on - A Great organization where i can showcase my skills,& I'm looking forward to working together..
 - 📫 How to reach me ---LINED_IN => https://www.linkedin.com/in/praveen-bartwal-ba5656172/
