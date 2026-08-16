@@ -36,8 +36,6 @@ I build **production-ready web applications and SaaS platforms** with a strong f
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
@@ -102,40 +100,6 @@ I build **production-ready web applications and SaaS platforms** with a strong f
 <img src="https://streak-stats.demolab.com?user=Praveen-Singh0&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🧠 Currently Focused On
-
-```text
-▸ Scalable SaaS Architecture
-▸ Backend Performance
-▸ Database Optimization
-▸ Distributed Background Jobs
-▸ Real-Time Applications
-▸ AI-powered Product Features
-▸ Better Developer Experience
-▸ Production Infrastructure
-```
-
----
-
-## 📚 Engineering Principles
-
-> **Build for the actual problem, not for the technology.**
-
-I care about:
-
-* Clean and maintainable code
-* Simple architecture where possible
-* Strong API boundaries
-* Proper database indexing
-* Predictable state management
-* Secure authentication
-* Efficient queries
-* Background processing for expensive work
-* Good UX for complex business workflows
-* Production reliability over demo-quality code
 
 ---
 
