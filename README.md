@@ -36,46 +36,39 @@ I build **production-ready web applications and SaaS platforms** with a strong f
 
 ---
 
-<p align="center">
+## 🧰
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma" />
 
-<br />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,vite" />
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,mongodb" />
 
-<br />
+<img src="https://skillicons.dev/icons?i=postgresql,redis,supabase,firebase,docker,kubernetes" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,nginx" />
 
-<br />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,npm" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,redis" />
+<img src="https://skillicons.dev/icons?i=openai,python,bash,ubuntu,stackoverflow" />
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=redux,docker,nginx,linux" />
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-
-</p>
+<img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+<img src="https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
 ---
 
 ## 🔌 Integrations & Technologies
 
-<p align="center">
-
 <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=redis&logoColor=white" />
-
-</p>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-6C47FF?style=for-the-badge&logo=webhooks&logoColor=white" />
+<img src="https://img.shields.io/badge/Payment_APIs-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/SMTP-444444?style=for-the-badge&logo=minutemailer&logoColor=white" />
 
 ---
 
