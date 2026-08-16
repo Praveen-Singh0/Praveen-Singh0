@@ -1,56 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Praveen Singh
+## 🧰
 
-### Full-Stack Developer · SaaS · Backend Systems · Modern Web Applications
-
-I build **production-ready web applications and SaaS platforms** with a strong focus on
-**clean architecture, scalable APIs, database design, authentication, and practical UI/UX.**
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma,javascript,typescript,react,nextjs,redux,vite" />
 
 <br />
 
-<a href="https://github.com/Praveen-Singh0">
-  <img src="https://komarev.com/ghpvc/?username=Praveen-Singh0&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgresql,prisma,redis,supabase,firebase,docker,kubernetes" />
 
-<a href="https://github.com/Praveen-Singh0?tab=followers">
-  <img src="https://img.shields.io/github/followers/Praveen-Singh0?style=for-the-badge&logo=github" alt="GitHub Followers" />
-</a>
+<br />
 
-</div>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,nginx,linux,ubuntu,git,github,vscode,postman" />
 
----
+<br />
 
-## 🧑‍💻 About Me
+<img src="https://skillicons.dev/icons?i=npm,bash,python,openai,stackoverflow,selenium,jest,cypress,rabbitmq,kafka,terraform,ansible" />
 
-* 🚀 Full-Stack Developer focused on **real-world SaaS products**
-* ⚛️ Building modern applications with **React, Next.js & TypeScript**
-* ⚙️ Designing backend systems with **Node.js & Express**
-* 🗄️ Working with **MongoDB, PostgreSQL & Prisma**
-* 🔐 Implementing **JWT authentication, OAuth & RBAC**
-* ⚡ Building asynchronous systems with **Redis & BullMQ**
-* 📧 Integrating **Gmail & Microsoft services**
-* 💳 Working with **payment integrations & webhooks**
-* 🌐 Deploying applications on **Linux VPS environments**
-* 🧠 Interested in **system architecture, performance & scalability**
-
----
-
-## 🧰
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma" />
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,vite" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,mongodb" />
-
-<img src="https://skillicons.dev/icons?i=postgresql,redis,supabase,firebase,docker,kubernetes" />
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,nginx" />
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,npm" />
-
-<img src="https://skillicons.dev/icons?i=openai,python,bash,ubuntu,stackoverflow" />
+<br />
 
 <img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
 <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
@@ -58,64 +24,5 @@ I build **production-ready web applications and SaaS platforms** with a strong f
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" />
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-
----
-
-## 🔌 Integrations & Technologies
-
-<img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Webhooks-6C47FF?style=for-the-badge&logo=webhooks&logoColor=white" />
-<img src="https://img.shields.io/badge/Payment_APIs-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/SMTP-444444?style=for-the-badge&logo=minutemailer&logoColor=white" />
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<a href="https://github.com/Praveen-Singh0">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Praveen-Singh0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Praveen-Singh0">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Singh0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Praveen-Singh0&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Praveen-Singh0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-### Thanks for visiting 👋
-
-**Building useful software, one system at a time.**
 
 </div>
